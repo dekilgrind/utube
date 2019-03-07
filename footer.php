@@ -1,0 +1,13 @@
+<?php echo '<h2 class="razdl">WARNING!! JIKA ANDA MAU NYOLONG VIDEO DISINI SILAKAN AJAK TETANGGA, SUADARA, TEMEN KALIAN YA<br/><br/><a href="https://info.flagcounter.com/MZb9"><img src="https://s04.flagcounter.com/count/MZb9/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a><br/><br/>WEB PARTNER<br/><br/><a href="https://sxtsquad21.com" style="color: red;">SXTSQUAD21.COM (NONTON MOVIE)</a><br/><a href="https://akusuka.ml" style="color: red;">SAYASUKA.ML (APK MOD)</a><br/></h2>';include 'adsbottom.php';include 'adspopup.php';if(file_exists('error_log')){unlink('error_log');}echo '<div id="footer"><div class="navl"><a href="/search/Lagu+indonesia+baru">Indonesian</a> |<a href="/search/New+VEVO">English</a> |<a href="/search/New+Bangla">Bangla</a> |<a href="/search/New+Hindi+Songs">Hindi</a> |<a href="/search/Latest+Malayalam">Malayalam</a> |<a href="/search/Latest+Haryanvi">Haryanvi</a> |<a href="/search/%E6%96%B0%E4%B8%AD%E5%9C%8B%E4%BA%BA">Chinese</a> |<a href="/search/New+Arabic+Songs">Arabic</a> |<a href="/search/New+Filipino+Songs">Filipino</a> |<a href="/search/Neue+Lieder">Deutsche</a> |<a href="/search/Neues+Deutsch">German</a> |<a href="/search/New+Latin+Songs">Latin</a> |<a href="/search/Latest+Punjabi+Songs">Punjabi</a> |<a href="/search/Novas+Musicas">Portuguese</a> |<a href="/search/%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88">Thai</a> |<a href="/search/New+Japanese">Japanese</a> |<a href="/search/New+Russian">Russian</a> |<a href="/search/Latest+Nollywood">Nigerian</a> |<a href="/search/Những+bài+hát+tiếng+Việt+mới">Vietnamese</a> |<a href="/search/Nouvelles+chansons">French</a> |<a href="/search/Latest+Persian+Songs">Persian</a> |<a href="/search/Son+Türk+Şarkılar">Turkish</a> |<a href="/search/Nuove+canzoni+italiane">Italian</a> |<a href="/search/Latest+Egyptian+Songs">Egyptian</a> |<a href="/search/New+South+Indian+Movie">South Indian Movie</a> |<a href="/search/New+South+Indian">South Indian Songs</a><br/><hr/>Copyright &copy; DEKIL 2019 • SXTSQUAD • All rights reserved •</div></div></body>';?><script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.14/iframeResizer.min.js"></script><script>iFrameResize({}, '.button-api-frame');</script><script>
+    $(document).ready(function(){
+        $('#download_button_show1').click(function() {
+            $('#download_show1').toggle('slow');
+			$('#download_show2').hide('slow');
+          });
+		 $('#download_button_show2').click(function() {
+            $('#download_show2').toggle('slow');
+			$('#download_show1').hide('slow');
+          });
+      });
+ </script></html>
+

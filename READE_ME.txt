@@ -1,0 +1,34 @@
+
+Assalamualaikum'
+Thank you for using the script from "SulisSoft"
+below are some changes to PHP that you should pay attention to.
+
+Before you Upload on the web please change the files in the following folders:
+
+---------------------------------------------------------------------------------------------
+/EDIT.php						Setting Configurasi Site
+/adstop.php						ADS Change 
+/adsbottom.php					ADS Change 
+/adsdl.php						ADS Change 
+/adspopup.php					ADS Change 
+
+/robots.txt						Change according to your needs
+/.htaccess						Change according to your needs
+/img/logo.png					Logo file changes
+
+Auto SiteMAP
+/map.txt						fill with keywords, keyword contents per line & for words separated by a minus sign (-)
+
+								example :
+								vieratale
+								isyana-saravati
+								raisa
+								rizky-febrian
+								
+								You can check the auto sitemap by URL : domain.com/sitemap.xml
+---------------------------------------------------------------------------------------------
+
+Thank you
+
+Wassalam
+Sulissoft
